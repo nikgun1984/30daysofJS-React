@@ -63,7 +63,7 @@ const App = () => {
 					title="Toggle Play"
 					onClick={handlePlay}
 				>
-					{icon ? "❚ ❚" : "►"}
+					{icon ? "❚❚" : "►"}
 				</button>
 				<input
 					type="range"
